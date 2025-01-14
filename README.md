@@ -20,3 +20,5 @@ tcp[13] == 18
 oracle virtual Box 프로그램
 
 # nmap 포트 스캔 ip 식별
+
+사전식 공격
