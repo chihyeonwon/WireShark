@@ -29,3 +29,7 @@ oracle virtual Box 프로그램
 ssh domain@ip주
 
 sudo ./bash_history 프로그램 실행 내역 -> 프로그램 다운 내역 확인 
+
+wget으로 다운한 파일의 경로로 간뒤 의심 파일 복사
+
+/root/bash_history
