@@ -27,3 +27,5 @@ oracle virtual Box 프로그램
 -> 접속 후 ./ss로 무작위 대입 공격 진행
 
 ssh domain@ip주
+
+sudo ./bash_history 프로그램 실행 내역 -> 프로그램 다운 내역 확인 
