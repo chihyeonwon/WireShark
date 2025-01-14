@@ -18,3 +18,5 @@ tcp[13] == 18
 /var/log/lastlog
 
 oracle virtual Box 프로그램
+
+# nmap 포트 스캔 ip 식별
