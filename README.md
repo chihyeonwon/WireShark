@@ -35,3 +35,17 @@ wget으로 다운한 파일의 경로로 간뒤 의심 파일 복사
 /root/bash_history
 
 권한을 상승 시킴 chmod
+
+# 분석 보고서 작성
+![image](https://github.com/user-attachments/assets/0d809a8d-76e3-4636-8417-a748f87a9149)
+![image](https://github.com/user-attachments/assets/99854247-a359-4be7-ae3b-ce71082bf36a)
+
+
+
+![image](https://github.com/user-attachments/assets/5956eb39-19ee-4aac-b8de-a790a9dab937)
+
+
+
+
+
+
