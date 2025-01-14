@@ -26,3 +26,4 @@ oracle virtual Box 프로그램
 -> 패스워드 탈취 후 패스워드가지고 접속
 -> 접속 후 ./ss로 무작위 대입 공격 진행
 
+ssh domain@ip주
